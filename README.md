@@ -1,5 +1,5 @@
 # curvetopia_final
-
+https://youtu.be/WFHyMASlDE8?si=-wFU8Q3jeGmA_7UZ
 ## Overview
 
 This script is designed to load, process, and visualize polyline data from a CSV file. It begins by reading the polylines, representing various paths, and then processes them through a series of transformations to simplify and classify the paths into geometric shapes. The script ultimately provides a visual comparison between the original and processed data, highlighting differences and emphasizing the importance of symmetry in geometric analysis.
